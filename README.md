@@ -91,19 +91,3 @@ test_visuals/AONet_<modality>/
 ```
 
 If the output directory already exists, a numbered directory is created automatically to avoid overwriting previous results.
-
-## Citation
-
-If you use the OCTA-500 dataset, please cite its original publication:
-
-```bibtex
-@article{li2024octa500,
-  title   = {{OCTA-500}: A Retinal Dataset for Optical Coherence Tomography Angiography Study},
-  author  = {Li, Mingchao and Huang, Kun and Xu, Qiuzhuo and Yang, Jiadong and Zhang, Yuhan and Ji, Zexuan and Xie, Keren and Yuan, Songtao and Liu, Qinghuai and Chen, Qiang},
-  journal = {Medical Image Analysis},
-  volume  = {93},
-  pages   = {103092},
-  year    = {2024},
-  doi     = {10.1016/j.media.2024.103092}
-}
-```
